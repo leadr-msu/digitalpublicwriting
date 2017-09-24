@@ -28,23 +28,25 @@
 
 ## Writing on the Web
 ![eye-tracking heatmap of a website](https://it-humsci.stanford.edu/sites/default/files/styles/page-width/public/f-shaped_scanniing_image.png?itok=Gh7ZmScX)
+
 Photo: Heatmap of web users made with eye tracking software. Photo from [Stanford IT](https://it-humsci.stanford.edu/services/writing-web)
 
-* Use well-structured headings and subheads to break up the text
-* Try to use shorter sentences and paragraphs
-* Bullet points and numbered lists when possible
-* Use photos and visuals whenever possible
+* Use well-structured headings and subheads to organize, signpost, and break up the text
+* Try to use shorter sentences and paragraphs; don't indent paragraphs
+* Use bullet points and numbered lists when possible
+* Use photos and visual aids whenever possible
 * Either use brackets ( [1] ) for footnotes or use brief parenthetical citations; should have a consistent style for an entire website or project
 * Use white space to prevent readers from being overwhelmed
 
 ### Accessibility Tips
 * Add ["alt text"](https://webaim.org/techniques/alttext/) to photos with a concise description of the content of the photo
-* Make sure headings (H1, H2, H3, etc) are nested and do not skip numbers
+* Make sure [headings are nested and do not skip numbers](https://webaim.org/techniques/semanticstructure/#contentstructure)
 * Make sure that hyperlinked text provides clear context for the link
 	* Ex: "Visit [LEADR's teaching resources](https://github.com/leadr-msu/Resources) for more info" rather than "LEADR teaching resources are [here](https://github.com/leadr-msu/Resources)".
 * Don't make the text content space too wide or it can be difficult to read
 * Use colors that contrast well so that low vision or colorblind readers do not have trouble
-* The [WebAIM Introduction to Accessibility](https://webaim.org/intro/) has a great overview of accessibility
+* Have transcripts or captions for all audio and video media
+* The [WebAIM Introduction to Accessibility](https://webaim.org/intro/) has a great overview
 
 ### Sources & Further Reading
 * [usability.gov. *Writing for the Web*](https://www.usability.gov/how-to-and-tools/methods/writing-for-the-web.html)
