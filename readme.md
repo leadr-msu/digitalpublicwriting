@@ -1,4 +1,5 @@
 # Web Writing for the Public
+Prepared by Brandon Locke
 ## Writing for the Public
 * Try to find a central question and organize your writing around it; let it drive your narrative
 * Try to find new angles on ideas that were already of interest to people
@@ -37,6 +38,7 @@ Photo: Heatmap of web users made with eye tracking software. Photo from [Stanfor
 * Use photos and visual aids whenever possible
 * Either use brackets ( [1] ) for footnotes or use brief parenthetical citations; should have a consistent style for an entire website or project
 * Use white space to prevent readers from being overwhelmed
+* Make sure you're following fair use and are not violating copyright. We have a [Fair Use Guide](https://github.com/leadr-msu/reusing-attributing-media) available.
 
 ### Accessibility Tips
 * Add ["alt text"](https://webaim.org/techniques/alttext/) to photos with a concise description of the content of the photo
