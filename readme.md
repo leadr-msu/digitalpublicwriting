@@ -51,3 +51,6 @@ Photo: Heatmap of web users made with eye tracking software. Photo from [Stanfor
 ### Sources & Further Reading
 * [usability.gov. *Writing for the Web*](https://www.usability.gov/how-to-and-tools/methods/writing-for-the-web.html)
 * [Web Accessibility in Mind (WebAIM)](https://webaim.org/) 
+
+-----
+### Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)
