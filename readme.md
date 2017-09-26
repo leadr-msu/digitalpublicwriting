@@ -1,5 +1,5 @@
 # Web Writing for the Public
-Prepared by Brandon Locke
+
 ## Writing for the Public
 * Try to find a central question and organize your writing around it; let it drive your narrative
 * Try to find new angles on ideas that were already of interest to people
