@@ -1,5 +1,5 @@
 # Web Writing for the Public
-
+Created by Brandon Locke
 ## Writing for the Public
 * Try to find a central question and organize your writing around it; let it drive your narrative
 * Try to find new angles on ideas that were already of interest to people
@@ -15,7 +15,7 @@
 	* Give people a stake in the story and make them want to continue
 	* Provide forward movement, anticipation; give the feeling that you're going someplace
 	* Don't leave out or bury the personal or interesting details
-* Don't feel like you must demonstrate your deep knowledge of the historiography — just use historiography to highlight different interpretations and arguments 
+* Don't feel like you must demonstrate your deep knowledge of the historiography — just use historiography to highlight different interpretations and arguments
 * Reflect on writing you've liked and think about what makes it compelling
 * Contextualize and add explanations for things people may not be familiar with
 * Have non-historians/non-academics read a draft and share their thoughts with you
@@ -52,7 +52,7 @@ Photo: Heatmap of web users made with eye tracking software. Photo from [Stanfor
 
 ### Sources & Further Reading
 * [usability.gov. *Writing for the Web*](https://www.usability.gov/how-to-and-tools/methods/writing-for-the-web.html)
-* [Web Accessibility in Mind (WebAIM)](https://webaim.org/) 
+* [Web Accessibility in Mind (WebAIM)](https://webaim.org/)
 
 -----
 ### Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)
