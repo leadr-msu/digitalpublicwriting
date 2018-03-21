@@ -55,4 +55,4 @@ Photo: Heatmap of web users made with eye tracking software. Photo from [Stanfor
 * [Web Accessibility in Mind (WebAIM)](https://webaim.org/)
 
 -----
-### Return to [LEADR's Resources list](http://leadr-msu.github.io/Resources/)
+### Return to [LEADR's Resources list](http://leadr-msu.github.io/resources/)
