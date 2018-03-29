@@ -1,4 +1,14 @@
 # Web Writing for the Public
+https://leadr-msu.github.io/digitalpublicwriting
+
+This tutorial was prepared by Brandon Locke and is maintained by [LEADR](http://leadr.msu.edu) staff. Here are the [usage rights](https://github.com/leadr-msu/digitalpublicwriting/blob/master/License.MD) associated with this tutorial.
+
+Find all our tutorials at [https://leadr-msu.github.io](https://leadr-msu.github.io).
+
+
+
+
+
 Created by Brandon Locke
 ## Writing for the Public
 * Try to find a central question and organize your writing around it; let it drive your narrative
